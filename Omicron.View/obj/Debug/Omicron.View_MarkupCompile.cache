@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\Omicron.View\obj\Debug\
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTestinGit\Omicron.View\obj\Debug\
 Omicron.View
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 72011936103
 2-1592862028
 5-1388197263
-171273490460
+17-1693733190
 AboutPage.xaml;HomePage.xaml;MainWindowView.xaml;Resources\Icons.xaml;Resources\IconsNonShared.xaml;Resources\SxjDictionary.xaml;SteelTestUnitControl.xaml;
 
 False

@@ -1,20 +1,60 @@
-D:\工作\WorkwithGit\通用钢片测试上位机\BingLibrary\obj\Debug\BingLibrary.csprojResolveAssemblyReference.cache
-D:\工作\WorkwithGit\通用钢片测试上位机\BingLibrary\bin\Debug\NLog.config
-D:\工作\WorkwithGit\通用钢片测试上位机\BingLibrary\bin\Debug\BingLibrary.dll
-D:\工作\WorkwithGit\通用钢片测试上位机\BingLibrary\bin\Debug\BingLibrary.pdb
-D:\工作\WorkwithGit\通用钢片测试上位机\BingLibrary\bin\Debug\Castle.Core.dll
-D:\工作\WorkwithGit\通用钢片测试上位机\BingLibrary\bin\Debug\NLog.dll
-D:\工作\WorkwithGit\通用钢片测试上位机\BingLibrary\bin\Debug\Castle.Core.xml
-D:\工作\WorkwithGit\通用钢片测试上位机\BingLibrary\bin\Debug\NLog.xml
-D:\工作\WorkwithGit\通用钢片测试上位机\BingLibrary\obj\Debug\BingLibrary.dll
-D:\工作\WorkwithGit\通用钢片测试上位机\BingLibrary\obj\Debug\BingLibrary.pdb
-D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\BingLibrary\bin\Debug\NLog.config
-D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\BingLibrary\bin\Debug\BingLibrary.dll
-D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\BingLibrary\bin\Debug\BingLibrary.pdb
-D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\BingLibrary\bin\Debug\Castle.Core.dll
-D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\BingLibrary\bin\Debug\NLog.dll
-D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\BingLibrary\bin\Debug\Castle.Core.xml
-D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\BingLibrary\bin\Debug\NLog.xml
-D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\BingLibrary\obj\Debug\BingLibrary.csprojResolveAssemblyReference.cache
-D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\BingLibrary\obj\Debug\BingLibrary.dll
-D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\BingLibrary\obj\Debug\BingLibrary.pdb
+G:\BingGit\BingLibrary\BingLibrary\bin\Debug\NLog.config
+G:\BingGit\BingLibrary\BingLibrary\bin\Debug\BingLibrary.dll
+G:\BingGit\BingLibrary\BingLibrary\bin\Debug\BingLibrary.pdb
+G:\BingGit\BingLibrary\BingLibrary\bin\Debug\Castle.Core.dll
+G:\BingGit\BingLibrary\BingLibrary\bin\Debug\Newtonsoft.Json.dll
+G:\BingGit\BingLibrary\BingLibrary\bin\Debug\NLog.dll
+G:\BingGit\BingLibrary\BingLibrary\bin\Debug\Castle.Core.xml
+G:\BingGit\BingLibrary\BingLibrary\bin\Debug\Newtonsoft.Json.xml
+G:\BingGit\BingLibrary\BingLibrary\bin\Debug\NLog.xml
+G:\BingGit\BingLibrary\BingLibrary\obj\Debug\BingLibrary.dll
+G:\BingGit\BingLibrary\BingLibrary\obj\Debug\BingLibrary.pdb
+C:\Users\Bing\Desktop\HalconViewer\BingLibrary\bin\Debug\NLog.config
+C:\Users\Bing\Desktop\HalconViewer\BingLibrary\bin\Debug\BingLibrary.dll
+C:\Users\Bing\Desktop\HalconViewer\BingLibrary\bin\Debug\BingLibrary.pdb
+C:\Users\Bing\Desktop\HalconViewer\BingLibrary\obj\Debug\BingLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Bing\Desktop\HalconViewer\BingLibrary\obj\Debug\BingLibrary.dll
+C:\Users\Bing\Desktop\HalconViewer\BingLibrary\obj\Debug\BingLibrary.pdb
+G:\BingGit\FHAPCA9\BingLibrary\bin\Debug\NLog.config
+G:\BingGit\FHAPCA9\BingLibrary\bin\Debug\BingLibrary.dll
+G:\BingGit\FHAPCA9\BingLibrary\bin\Debug\BingLibrary.pdb
+G:\BingGit\FHAPCA9\BingLibrary\obj\Debug\BingLibrary.dll
+G:\BingGit\FHAPCA9\BingLibrary\obj\Debug\BingLibrary.pdb
+G:\BingGit\FHAPCA9\BingLibrary\obj\Debug\BingLibrary.csprojResolveAssemblyReference.cache
+G:\BingGit\BingLibrary\BingLibrary\obj\Debug\BingLibrary.csprojResolveAssemblyReference.cache
+G:\LeaderTeam\Binglibrary\BingLibrary\bin\Debug\NLog.config
+G:\LeaderTeam\Binglibrary\BingLibrary\bin\Debug\BingLibrary.dll
+G:\LeaderTeam\Binglibrary\BingLibrary\bin\Debug\BingLibrary.pdb
+G:\LeaderTeam\Binglibrary\BingLibrary\bin\Debug\Castle.Core.dll
+G:\LeaderTeam\Binglibrary\BingLibrary\bin\Debug\Newtonsoft.Json.dll
+G:\LeaderTeam\Binglibrary\BingLibrary\bin\Debug\NLog.dll
+G:\LeaderTeam\Binglibrary\BingLibrary\bin\Debug\Castle.Core.xml
+G:\LeaderTeam\Binglibrary\BingLibrary\bin\Debug\Newtonsoft.Json.xml
+G:\LeaderTeam\Binglibrary\BingLibrary\bin\Debug\NLog.xml
+G:\LeaderTeam\Binglibrary\BingLibrary\obj\Debug\BingLibrary.csprojResolveAssemblyReference.cache
+G:\LeaderTeam\Binglibrary\BingLibrary\obj\Debug\BingLibrary.dll
+G:\LeaderTeam\Binglibrary\BingLibrary\obj\Debug\BingLibrary.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Binglibrary\BingLibrary\bin\Debug\NLog.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Binglibrary\BingLibrary\bin\Debug\BingLibrary.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Binglibrary\BingLibrary\bin\Debug\BingLibrary.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Binglibrary\BingLibrary\bin\Debug\Castle.Core.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Binglibrary\BingLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Binglibrary\BingLibrary\bin\Debug\NLog.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Binglibrary\BingLibrary\bin\Debug\Castle.Core.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Binglibrary\BingLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Binglibrary\BingLibrary\bin\Debug\NLog.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Binglibrary\BingLibrary\obj\Debug\BingLibrary.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Binglibrary\BingLibrary\obj\Debug\BingLibrary.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Binglibrary\BingLibrary\obj\Debug\BingLibrary.pdb
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTestinGit\BingLibrary\bin\Debug\NLog.config
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTestinGit\BingLibrary\bin\Debug\BingLibrary.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTestinGit\BingLibrary\bin\Debug\BingLibrary.pdb
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTestinGit\BingLibrary\bin\Debug\Castle.Core.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTestinGit\BingLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTestinGit\BingLibrary\bin\Debug\NLog.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTestinGit\BingLibrary\bin\Debug\Castle.Core.xml
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTestinGit\BingLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTestinGit\BingLibrary\bin\Debug\NLog.xml
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTestinGit\BingLibrary\obj\Debug\BingLibrary.csprojResolveAssemblyReference.cache
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTestinGit\BingLibrary\obj\Debug\BingLibrary.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTestinGit\BingLibrary\obj\Debug\BingLibrary.pdb

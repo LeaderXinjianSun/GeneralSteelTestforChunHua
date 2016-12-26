@@ -632,31 +632,25 @@
             <param name="message">Message which may include positional parameters.</param>
             <param name="args">Arguments to the message.</param>
         </member>
-        <member name="M:NLog.Common.InternalLogger.Trace``1(System.String,``0)">
+        <member name="M:NLog.Common.InternalLogger.Trace(System.String,System.Object)">
             <summary>
             Logs the specified message without an <see cref="T:System.Exception"/> at the Trace level.
             </summary>
-            <typeparam name="TArgument1">The type of the first argument.</typeparam>
             <param name="message">Message which may include positional parameters.</param>
             <param name="arg0">Argument {0} to the message.</param>
         </member>
-        <member name="M:NLog.Common.InternalLogger.Trace``2(System.String,``0,``1)">
+        <member name="M:NLog.Common.InternalLogger.Trace(System.String,System.Object,System.Object)">
             <summary>
             Logs the specified message without an <see cref="T:System.Exception"/> at the Trace level.
             </summary>
-            <typeparam name="TArgument1">The type of the first argument.</typeparam>
-            <typeparam name="TArgument2">The type of the second argument.</typeparam>
             <param name="message">Message which may include positional parameters.</param>
             <param name="arg0">Argument {0} to the message.</param>
             <param name="arg1">Argument {1} to the message.</param>
         </member>
-        <member name="M:NLog.Common.InternalLogger.Trace``3(System.String,``0,``1,``2)">
+        <member name="M:NLog.Common.InternalLogger.Trace(System.String,System.Object,System.Object,System.Object)">
             <summary>
             Logs the specified message without an <see cref="T:System.Exception"/> at the Trace level.
             </summary>
-            <typeparam name="TArgument1">The type of the first argument.</typeparam>
-            <typeparam name="TArgument2">The type of the second argument.</typeparam>
-            <typeparam name="TArgument3">The type of the third argument.</typeparam>
             <param name="message">Message which may include positional parameters.</param>
             <param name="arg0">Argument {0} to the message.</param>
             <param name="arg1">Argument {1} to the message.</param>
@@ -690,31 +684,25 @@
             <param name="message">Message which may include positional parameters.</param>
             <param name="args">Arguments to the message.</param>
         </member>
-        <member name="M:NLog.Common.InternalLogger.Debug``1(System.String,``0)">
+        <member name="M:NLog.Common.InternalLogger.Debug(System.String,System.Object)">
             <summary>
             Logs the specified message without an <see cref="T:System.Exception"/> at the Trace level.
             </summary>
-            <typeparam name="TArgument1">The type of the first argument.</typeparam>
             <param name="message">Message which may include positional parameters.</param>
             <param name="arg0">Argument {0} to the message.</param>
         </member>
-        <member name="M:NLog.Common.InternalLogger.Debug``2(System.String,``0,``1)">
+        <member name="M:NLog.Common.InternalLogger.Debug(System.String,System.Object,System.Object)">
             <summary>
             Logs the specified message without an <see cref="T:System.Exception"/> at the Trace level.
             </summary>
-            <typeparam name="TArgument1">The type of the first argument.</typeparam>
-            <typeparam name="TArgument2">The type of the second argument.</typeparam>
             <param name="message">Message which may include positional parameters.</param>
             <param name="arg0">Argument {0} to the message.</param>
             <param name="arg1">Argument {1} to the message.</param>
         </member>
-        <member name="M:NLog.Common.InternalLogger.Debug``3(System.String,``0,``1,``2)">
+        <member name="M:NLog.Common.InternalLogger.Debug(System.String,System.Object,System.Object,System.Object)">
             <summary>
             Logs the specified message without an <see cref="T:System.Exception"/> at the Trace level.
             </summary>
-            <typeparam name="TArgument1">The type of the first argument.</typeparam>
-            <typeparam name="TArgument2">The type of the second argument.</typeparam>
-            <typeparam name="TArgument3">The type of the third argument.</typeparam>
             <param name="message">Message which may include positional parameters.</param>
             <param name="arg0">Argument {0} to the message.</param>
             <param name="arg1">Argument {1} to the message.</param>
@@ -748,31 +736,25 @@
             <param name="message">Message which may include positional parameters.</param>
             <param name="args">Arguments to the message.</param>
         </member>
-        <member name="M:NLog.Common.InternalLogger.Info``1(System.String,``0)">
+        <member name="M:NLog.Common.InternalLogger.Info(System.String,System.Object)">
             <summary>
             Logs the specified message without an <see cref="T:System.Exception"/> at the Trace level.
             </summary>
-            <typeparam name="TArgument1">The type of the first argument.</typeparam>
             <param name="message">Message which may include positional parameters.</param>
             <param name="arg0">Argument {0} to the message.</param>
         </member>
-        <member name="M:NLog.Common.InternalLogger.Info``2(System.String,``0,``1)">
+        <member name="M:NLog.Common.InternalLogger.Info(System.String,System.Object,System.Object)">
             <summary>
             Logs the specified message without an <see cref="T:System.Exception"/> at the Trace level.
             </summary>
-            <typeparam name="TArgument1">The type of the first argument.</typeparam>
-            <typeparam name="TArgument2">The type of the second argument.</typeparam>
             <param name="message">Message which may include positional parameters.</param>
             <param name="arg0">Argument {0} to the message.</param>
             <param name="arg1">Argument {1} to the message.</param>
         </member>
-        <member name="M:NLog.Common.InternalLogger.Info``3(System.String,``0,``1,``2)">
+        <member name="M:NLog.Common.InternalLogger.Info(System.String,System.Object,System.Object,System.Object)">
             <summary>
             Logs the specified message without an <see cref="T:System.Exception"/> at the Trace level.
             </summary>
-            <typeparam name="TArgument1">The type of the first argument.</typeparam>
-            <typeparam name="TArgument2">The type of the second argument.</typeparam>
-            <typeparam name="TArgument3">The type of the third argument.</typeparam>
             <param name="message">Message which may include positional parameters.</param>
             <param name="arg0">Argument {0} to the message.</param>
             <param name="arg1">Argument {1} to the message.</param>
@@ -806,31 +788,25 @@
             <param name="message">Message which may include positional parameters.</param>
             <param name="args">Arguments to the message.</param>
         </member>
-        <member name="M:NLog.Common.InternalLogger.Warn``1(System.String,``0)">
+        <member name="M:NLog.Common.InternalLogger.Warn(System.String,System.Object)">
             <summary>
             Logs the specified message without an <see cref="T:System.Exception"/> at the Trace level.
             </summary>
-            <typeparam name="TArgument1">The type of the first argument.</typeparam>
             <param name="message">Message which may include positional parameters.</param>
             <param name="arg0">Argument {0} to the message.</param>
         </member>
-        <member name="M:NLog.Common.InternalLogger.Warn``2(System.String,``0,``1)">
+        <member name="M:NLog.Common.InternalLogger.Warn(System.String,System.Object,System.Object)">
             <summary>
             Logs the specified message without an <see cref="T:System.Exception"/> at the Trace level.
             </summary>
-            <typeparam name="TArgument1">The type of the first argument.</typeparam>
-            <typeparam name="TArgument2">The type of the second argument.</typeparam>
             <param name="message">Message which may include positional parameters.</param>
             <param name="arg0">Argument {0} to the message.</param>
             <param name="arg1">Argument {1} to the message.</param>
         </member>
-        <member name="M:NLog.Common.InternalLogger.Warn``3(System.String,``0,``1,``2)">
+        <member name="M:NLog.Common.InternalLogger.Warn(System.String,System.Object,System.Object,System.Object)">
             <summary>
             Logs the specified message without an <see cref="T:System.Exception"/> at the Trace level.
             </summary>
-            <typeparam name="TArgument1">The type of the first argument.</typeparam>
-            <typeparam name="TArgument2">The type of the second argument.</typeparam>
-            <typeparam name="TArgument3">The type of the third argument.</typeparam>
             <param name="message">Message which may include positional parameters.</param>
             <param name="arg0">Argument {0} to the message.</param>
             <param name="arg1">Argument {1} to the message.</param>
@@ -864,31 +840,25 @@
             <param name="message">Message which may include positional parameters.</param>
             <param name="args">Arguments to the message.</param>
         </member>
-        <member name="M:NLog.Common.InternalLogger.Error``1(System.String,``0)">
+        <member name="M:NLog.Common.InternalLogger.Error(System.String,System.Object)">
             <summary>
             Logs the specified message without an <see cref="T:System.Exception"/> at the Trace level.
             </summary>
-            <typeparam name="TArgument1">The type of the first argument.</typeparam>
             <param name="message">Message which may include positional parameters.</param>
             <param name="arg0">Argument {0} to the message.</param>
         </member>
-        <member name="M:NLog.Common.InternalLogger.Error``2(System.String,``0,``1)">
+        <member name="M:NLog.Common.InternalLogger.Error(System.String,System.Object,System.Object)">
             <summary>
             Logs the specified message without an <see cref="T:System.Exception"/> at the Trace level.
             </summary>
-            <typeparam name="TArgument1">The type of the first argument.</typeparam>
-            <typeparam name="TArgument2">The type of the second argument.</typeparam>
             <param name="message">Message which may include positional parameters.</param>
             <param name="arg0">Argument {0} to the message.</param>
             <param name="arg1">Argument {1} to the message.</param>
         </member>
-        <member name="M:NLog.Common.InternalLogger.Error``3(System.String,``0,``1,``2)">
+        <member name="M:NLog.Common.InternalLogger.Error(System.String,System.Object,System.Object,System.Object)">
             <summary>
             Logs the specified message without an <see cref="T:System.Exception"/> at the Trace level.
             </summary>
-            <typeparam name="TArgument1">The type of the first argument.</typeparam>
-            <typeparam name="TArgument2">The type of the second argument.</typeparam>
-            <typeparam name="TArgument3">The type of the third argument.</typeparam>
             <param name="message">Message which may include positional parameters.</param>
             <param name="arg0">Argument {0} to the message.</param>
             <param name="arg1">Argument {1} to the message.</param>
@@ -922,31 +892,25 @@
             <param name="message">Message which may include positional parameters.</param>
             <param name="args">Arguments to the message.</param>
         </member>
-        <member name="M:NLog.Common.InternalLogger.Fatal``1(System.String,``0)">
+        <member name="M:NLog.Common.InternalLogger.Fatal(System.String,System.Object)">
             <summary>
             Logs the specified message without an <see cref="T:System.Exception"/> at the Trace level.
             </summary>
-            <typeparam name="TArgument1">The type of the first argument.</typeparam>
             <param name="message">Message which may include positional parameters.</param>
             <param name="arg0">Argument {0} to the message.</param>
         </member>
-        <member name="M:NLog.Common.InternalLogger.Fatal``2(System.String,``0,``1)">
+        <member name="M:NLog.Common.InternalLogger.Fatal(System.String,System.Object,System.Object)">
             <summary>
             Logs the specified message without an <see cref="T:System.Exception"/> at the Trace level.
             </summary>
-            <typeparam name="TArgument1">The type of the first argument.</typeparam>
-            <typeparam name="TArgument2">The type of the second argument.</typeparam>
             <param name="message">Message which may include positional parameters.</param>
             <param name="arg0">Argument {0} to the message.</param>
             <param name="arg1">Argument {1} to the message.</param>
         </member>
-        <member name="M:NLog.Common.InternalLogger.Fatal``3(System.String,``0,``1,``2)">
+        <member name="M:NLog.Common.InternalLogger.Fatal(System.String,System.Object,System.Object,System.Object)">
             <summary>
             Logs the specified message without an <see cref="T:System.Exception"/> at the Trace level.
             </summary>
-            <typeparam name="TArgument1">The type of the first argument.</typeparam>
-            <typeparam name="TArgument2">The type of the second argument.</typeparam>
-            <typeparam name="TArgument3">The type of the third argument.</typeparam>
             <param name="message">Message which may include positional parameters.</param>
             <param name="arg0">Argument {0} to the message.</param>
             <param name="arg1">Argument {1} to the message.</param>
@@ -1595,52 +1559,6 @@
             <param name="rightValue">The second value.</param>
             <param name="relationalOperator">The relational operator.</param>
             <returns>Result of the given relational operator.</returns>
-        </member>
-        <member name="M:NLog.Conditions.ConditionRelationalExpression.PromoteTypes(System.Object@,System.Object@)">
-            <summary>
-            Promote values to the type needed for the comparision, e.g. parse a string to int.
-            </summary>
-            <param name="val1"></param>
-            <param name="val2"></param>
-        </member>
-        <member name="M:NLog.Conditions.ConditionRelationalExpression.TryPromoteType(System.Object@,System.Type)">
-            <summary>
-            Promoto <paramref name="val"/> to type
-            </summary>
-            <param name="val"></param>
-            <param name="type1"></param>
-            <returns>success?</returns>
-        </member>
-        <member name="M:NLog.Conditions.ConditionRelationalExpression.TryPromoteTypes(System.Object@,System.Type,System.Object@,System.Type)">
-            <summary>
-            Try to promote both values. First try to promote <paramref name="val1"/> to <paramref name="type1"/>,
-             when failed, try <paramref name="val2"/> to <paramref name="type2"/>.
-            </summary>
-            <returns></returns>
-        </member>
-        <member name="M:NLog.Conditions.ConditionRelationalExpression.GetOrder(System.Type)">
-            <summary>
-            Get the order for the type for comparision.
-            </summary>
-            <param name="type1"></param>
-            <returns>index, 0 to maxint. Lower is first</returns>
-        </member>
-        <member name="F:NLog.Conditions.ConditionRelationalExpression.TypePromoteOrder">
-            <summary>
-            Dictionary from type to index. Lower index should be tested first.
-            </summary>
-        </member>
-        <member name="M:NLog.Conditions.ConditionRelationalExpression.BuildTypeOrderDictionary">
-            <summary>
-            Build the dictionary needed for the order of the types.
-            </summary>
-            <returns></returns>
-        </member>
-        <member name="M:NLog.Conditions.ConditionRelationalExpression.GetOperatorString">
-            <summary>
-            Get the string representing the current <see cref="T:NLog.Conditions.ConditionRelationalOperator"/>
-            </summary>
-            <returns></returns>
         </member>
         <member name="P:NLog.Conditions.ConditionRelationalExpression.LeftExpression">
             <summary>
@@ -4307,13 +4225,6 @@
             <param name="message">A <see langword="string" /> to be written.</param>
             <param name="exception">An exception to be logged.</param>
         </member>
-        <member name="M:NLog.ILogger.Trace(System.Exception,System.String)">
-            <summary>
-            Writes the diagnostic message and exception at the <c>Trace</c> level.
-            </summary>
-            <param name="message">A <see langword="string" /> to be written.</param>
-            <param name="exception">An exception to be logged.</param>
-        </member>
         <member name="M:NLog.ILogger.Trace(System.Exception,System.String,System.Object[])">
             <summary>
             Writes the diagnostic message and exception at the <c>Trace</c> level.
@@ -4447,13 +4358,6 @@
             <param name="messageFunc">A function returning message to be written. Function is not evaluated if logging is not enabled.</param>
         </member>
         <member name="M:NLog.ILogger.DebugException(System.String,System.Exception)">
-            <summary>
-            Writes the diagnostic message and exception at the <c>Debug</c> level.
-            </summary>
-            <param name="message">A <see langword="string" /> to be written.</param>
-            <param name="exception">An exception to be logged.</param>
-        </member>
-        <member name="M:NLog.ILogger.Debug(System.Exception,System.String)">
             <summary>
             Writes the diagnostic message and exception at the <c>Debug</c> level.
             </summary>
@@ -4599,13 +4503,6 @@
             <param name="message">A <see langword="string" /> to be written.</param>
             <param name="exception">An exception to be logged.</param>
         </member>
-        <member name="M:NLog.ILogger.Info(System.Exception,System.String)">
-            <summary>
-            Writes the diagnostic message and exception at the <c>Info</c> level.
-            </summary>
-            <param name="message">A <see langword="string" /> to be written.</param>
-            <param name="exception">An exception to be logged.</param>
-        </member>
         <member name="M:NLog.ILogger.Info(System.Exception,System.String,System.Object[])">
             <summary>
             Writes the diagnostic message and exception at the <c>Info</c> level.
@@ -4739,13 +4636,6 @@
             <param name="messageFunc">A function returning message to be written. Function is not evaluated if logging is not enabled.</param>
         </member>
         <member name="M:NLog.ILogger.WarnException(System.String,System.Exception)">
-            <summary>
-            Writes the diagnostic message and exception at the <c>Warn</c> level.
-            </summary>
-            <param name="message">A <see langword="string" /> to be written.</param>
-            <param name="exception">An exception to be logged.</param>
-        </member>
-        <member name="M:NLog.ILogger.Warn(System.Exception,System.String)">
             <summary>
             Writes the diagnostic message and exception at the <c>Warn</c> level.
             </summary>
@@ -4891,13 +4781,6 @@
             <param name="message">A <see langword="string" /> to be written.</param>
             <param name="exception">An exception to be logged.</param>
         </member>
-        <member name="M:NLog.ILogger.Error(System.Exception,System.String)">
-            <summary>
-            Writes the diagnostic message and exception at the <c>Error</c> level.
-            </summary>
-            <param name="message">A <see langword="string" /> to be written.</param>
-            <param name="exception">An exception to be logged.</param>
-        </member>
         <member name="M:NLog.ILogger.Error(System.Exception,System.String,System.Object[])">
             <summary>
             Writes the diagnostic message and exception at the <c>Error</c> level.
@@ -5031,13 +4914,6 @@
             <param name="messageFunc">A function returning message to be written. Function is not evaluated if logging is not enabled.</param>
         </member>
         <member name="M:NLog.ILogger.FatalException(System.String,System.Exception)">
-            <summary>
-            Writes the diagnostic message and exception at the <c>Fatal</c> level.
-            </summary>
-            <param name="message">A <see langword="string" /> to be written.</param>
-            <param name="exception">An exception to be logged.</param>
-        </member>
-        <member name="M:NLog.ILogger.Fatal(System.Exception,System.String)">
             <summary>
             Writes the diagnostic message and exception at the <c>Fatal</c> level.
             </summary>
@@ -7474,34 +7350,15 @@
             non null is fixed,
             </summary>
         </member>
-        <member name="F:NLog.Internal.FilePathLayout._cachedPrevRawFileName">
-            <summary>
-            <see cref="F:NLog.Internal.FilePathLayout._cachedPrevRawFileName"/> is the cache-key, and when newly rendered filename matches the cache-key,
-            then it reuses the cleaned cache-value <see cref="F:NLog.Internal.FilePathLayout._cachedPrevCleanFileName"/>.
-            </summary>
-        </member>
-        <member name="F:NLog.Internal.FilePathLayout._cachedPrevCleanFileName">
-            <summary>
-            <see cref="F:NLog.Internal.FilePathLayout._cachedPrevCleanFileName"/> is the cache-value that is reused, when the newly rendered filename
-            matches the cache-key <see cref="F:NLog.Internal.FilePathLayout._cachedPrevRawFileName"/>
-            </summary>
-        </member>
         <member name="M:NLog.Internal.FilePathLayout.#ctor(NLog.Layouts.Layout,System.Boolean,NLog.Targets.FilePathKind)">
             <summary>Initializes a new instance of the <see cref="T:System.Object" /> class.</summary>
         </member>
-        <member name="M:NLog.Internal.FilePathLayout.GetRenderedFileName(NLog.LogEventInfo)">
+        <member name="M:NLog.Internal.FilePathLayout.GetCleanedFileName(NLog.LogEventInfo)">
             <summary>
-            Render the raw filename from Layout
+            Render, as cleaned if requested.
             </summary>
             <param name="logEvent">The log event.</param>
             <returns>String representation of a layout.</returns>
-        </member>
-        <member name="M:NLog.Internal.FilePathLayout.GetCleanFileName(System.String)">
-            <summary>
-            Convert the raw filename to a correct filename
-            </summary>
-            <param name="rawFileName">The filename generated by Layout.</param>
-            <returns>String representation of a correct filename.</returns>
         </member>
         <member name="M:NLog.Internal.FilePathLayout.DetectFilePathKind(NLog.Layouts.Layout)">
             <summary>
@@ -8055,11 +7912,6 @@
             Gets a value indicating whether current OS is Unix-based.
             </summary>
         </member>
-        <member name="P:NLog.Internal.PlatformDetector.IsMono">
-            <summary>
-            Gets a value indicating whether current runtime is Mono-based
-            </summary>
-        </member>
         <member name="T:NLog.Internal.PortableFileCharacteristicsHelper">
             <summary>
             Portable implementation of <see cref="T:NLog.Internal.FileCharacteristicsHelper"/>.
@@ -8306,18 +8158,6 @@
             Dictionary where keys are unique input keys, and values are lists of <see cref="T:NLog.Common.AsyncLogEventInfo"/>.
             </returns>
         </member>
-        <member name="M:NLog.Internal.SortHelpers.BucketSort``2(System.Collections.Generic.IList{``0},NLog.Internal.SortHelpers.KeySelector{``0,``1})">
-            <summary>
-            Performs bucket sort (group by) on an array of items and returns a dictionary for easy traversal of the result set.
-            </summary>
-            <typeparam name="TValue">The type of the value.</typeparam>
-            <typeparam name="TKey">The type of the key.</typeparam>
-            <param name="inputs">The inputs.</param>
-            <param name="keySelector">The key selector function.</param>
-            <returns>
-            Dictionary where keys are unique input keys, and values are lists of <see cref="T:NLog.Common.AsyncLogEventInfo"/>.
-            </returns>
-        </member>
         <member name="T:NLog.Internal.SortHelpers.KeySelector`2">
             <summary>
             Key selector delegate.
@@ -8326,73 +8166,6 @@
             <typeparam name="TKey">The type of the key.</typeparam>
             <param name="value">Value to extract key information from.</param>
             <returns>Key selected from log event.</returns>
-        </member>
-        <member name="T:NLog.Internal.SortHelpers.ReadOnlySingleBucketDictionary`2">
-            <summary>
-            Single-Bucket optimized readonly dictionary. Uses normal internally Dictionary if multiple buckets are needed.
-            
-            Avoids allocating a new dictionary, when all items are using the same bucket
-            </summary>
-            <typeparam name="TKey">The type of the key.</typeparam>
-            <typeparam name="TValue">The type of the value.</typeparam> 
-        </member>
-        <member name="M:NLog.Internal.SortHelpers.ReadOnlySingleBucketDictionary`2.System#Collections#Generic#IEnumerable{System#Collections#Generic#KeyValuePair{TKey@TValue}}#GetEnumerator">
-            <inheritDoc/>
-        </member>
-        <member name="M:NLog.Internal.SortHelpers.ReadOnlySingleBucketDictionary`2.System#Collections#IEnumerable#GetEnumerator">
-            <inheritDoc/>
-        </member>
-        <member name="M:NLog.Internal.SortHelpers.ReadOnlySingleBucketDictionary`2.ContainsKey(`0)">
-            <inheritDoc/>
-        </member>
-        <member name="M:NLog.Internal.SortHelpers.ReadOnlySingleBucketDictionary`2.Add(`0,`1)">
-            <summary>Will always throw, as dictionary is readonly</summary>
-        </member>
-        <member name="M:NLog.Internal.SortHelpers.ReadOnlySingleBucketDictionary`2.Remove(`0)">
-            <summary>Will always throw, as dictionary is readonly</summary>
-        </member>
-        <member name="M:NLog.Internal.SortHelpers.ReadOnlySingleBucketDictionary`2.TryGetValue(`0,`1@)">
-            <inheritDoc/>
-        </member>
-        <member name="M:NLog.Internal.SortHelpers.ReadOnlySingleBucketDictionary`2.Add(System.Collections.Generic.KeyValuePair{`0,`1})">
-            <summary>Will always throw, as dictionary is readonly</summary>
-        </member>
-        <member name="M:NLog.Internal.SortHelpers.ReadOnlySingleBucketDictionary`2.Clear">
-            <summary>Will always throw, as dictionary is readonly</summary>
-        </member>
-        <member name="M:NLog.Internal.SortHelpers.ReadOnlySingleBucketDictionary`2.Contains(System.Collections.Generic.KeyValuePair{`0,`1})">
-            <inheritDoc/>
-        </member>
-        <member name="M:NLog.Internal.SortHelpers.ReadOnlySingleBucketDictionary`2.CopyTo(System.Collections.Generic.KeyValuePair{`0,`1}[],System.Int32)">
-            <inheritDoc/>
-        </member>
-        <member name="M:NLog.Internal.SortHelpers.ReadOnlySingleBucketDictionary`2.Remove(System.Collections.Generic.KeyValuePair{`0,`1})">
-            <summary>Will always throw, as dictionary is readonly</summary>
-        </member>
-        <member name="P:NLog.Internal.SortHelpers.ReadOnlySingleBucketDictionary`2.Count">
-            <inheritDoc/>
-        </member>
-        <member name="P:NLog.Internal.SortHelpers.ReadOnlySingleBucketDictionary`2.Keys">
-            <inheritDoc/>
-        </member>
-        <member name="P:NLog.Internal.SortHelpers.ReadOnlySingleBucketDictionary`2.Values">
-            <inheritDoc/>
-        </member>
-        <member name="P:NLog.Internal.SortHelpers.ReadOnlySingleBucketDictionary`2.IsReadOnly">
-            <inheritDoc/>
-        </member>
-        <member name="P:NLog.Internal.SortHelpers.ReadOnlySingleBucketDictionary`2.Item(`0)">
-            <summary>
-            Allows direct lookup of existing keys. If trying to access non-existing key exeption is thrown.
-            Consider to use <see cref="M:NLog.Internal.SortHelpers.ReadOnlySingleBucketDictionary`2.TryGetValue(`0,`1@)"/> instead for better safety.
-            </summary>
-            <param name="key">Key value for lookup</param>
-            <returns>Mapped value found</returns>
-        </member>
-        <member name="T:NLog.Internal.SortHelpers.ReadOnlySingleBucketDictionary`2.Enumerator">
-            <summary>
-            Non-Allocating struct-enumerator
-            </summary>
         </member>
         <member name="T:NLog.Internal.StackTraceUsageUtils">
             <summary>
@@ -9118,12 +8891,6 @@
             <summary>
             Initializes a new instance of the <see cref="T:NLog.LayoutRenderers.DateLayoutRenderer"/> class.
             </summary>
-        </member>
-        <member name="F:NLog.LayoutRenderers.DateLayoutRenderer._cachedUtcTime">
-            <summary>Cache-key (Last DateTime.UtcNow) + Cache-Value (DateTime.Format result)</summary>
-        </member>
-        <member name="F:NLog.LayoutRenderers.DateLayoutRenderer._cachedLocalTime">
-            <summary>Cache-key (Last DateTime.Now) + Cache-Value (DateTime.Format result)</summary>
         </member>
         <member name="M:NLog.LayoutRenderers.DateLayoutRenderer.Append(System.Text.StringBuilder,NLog.LogEventInfo)">
             <summary>
@@ -12706,13 +12473,6 @@
             <param name="message">A <see langword="string" /> to be written.</param>
             <param name="exception">An exception to be logged.</param>
         </member>
-        <member name="M:NLog.Logger.Trace(System.Exception,System.String)">
-            <summary>
-            Writes the diagnostic message and exception at the <c>Trace</c> level.
-            </summary>
-            <param name="message">A <see langword="string" /> to be written.</param>
-            <param name="exception">An exception to be logged.</param>
-        </member>
         <member name="M:NLog.Logger.Trace(System.Exception,System.String,System.Object[])">
             <summary>
             Writes the diagnostic message and exception at the <c>Trace</c> level.
@@ -12846,13 +12606,6 @@
             <param name="args">Arguments to format.</param>
         </member>
         <member name="M:NLog.Logger.Debug(System.String,System.Exception)">
-            <summary>
-            Writes the diagnostic message and exception at the <c>Debug</c> level.
-            </summary>
-            <param name="message">A <see langword="string" /> to be written.</param>
-            <param name="exception">An exception to be logged.</param>
-        </member>
-        <member name="M:NLog.Logger.Debug(System.Exception,System.String)">
             <summary>
             Writes the diagnostic message and exception at the <c>Debug</c> level.
             </summary>
@@ -12998,13 +12751,6 @@
             <param name="message">A <see langword="string" /> to be written.</param>
             <param name="exception">An exception to be logged.</param>
         </member>
-        <member name="M:NLog.Logger.Info(System.Exception,System.String)">
-            <summary>
-            Writes the diagnostic message and exception at the <c>Info</c> level.
-            </summary>
-            <param name="message">A <see langword="string" /> to be written.</param>
-            <param name="exception">An exception to be logged.</param>
-        </member>
         <member name="M:NLog.Logger.Info(System.Exception,System.String,System.Object[])">
             <summary>
             Writes the diagnostic message and exception at the <c>Info</c> level.
@@ -13138,13 +12884,6 @@
             <param name="args">Arguments to format.</param>
         </member>
         <member name="M:NLog.Logger.Warn(System.String,System.Exception)">
-            <summary>
-            Writes the diagnostic message and exception at the <c>Warn</c> level.
-            </summary>
-            <param name="message">A <see langword="string" /> to be written.</param>
-            <param name="exception">An exception to be logged.</param>
-        </member>
-        <member name="M:NLog.Logger.Warn(System.Exception,System.String)">
             <summary>
             Writes the diagnostic message and exception at the <c>Warn</c> level.
             </summary>
@@ -13290,13 +13029,6 @@
             <param name="message">A <see langword="string" /> to be written.</param>
             <param name="exception">An exception to be logged.</param>
         </member>
-        <member name="M:NLog.Logger.Error(System.Exception,System.String)">
-            <summary>
-            Writes the diagnostic message and exception at the <c>Error</c> level.
-            </summary>
-            <param name="message">A <see langword="string" /> to be written.</param>
-            <param name="exception">An exception to be logged.</param>
-        </member>
         <member name="M:NLog.Logger.Error(System.Exception,System.String,System.Object[])">
             <summary>
             Writes the diagnostic message and exception at the <c>Error</c> level.
@@ -13430,13 +13162,6 @@
             <param name="args">Arguments to format.</param>
         </member>
         <member name="M:NLog.Logger.Fatal(System.String,System.Exception)">
-            <summary>
-            Writes the diagnostic message and exception at the <c>Fatal</c> level.
-            </summary>
-            <param name="message">A <see langword="string" /> to be written.</param>
-            <param name="exception">An exception to be logged.</param>
-        </member>
-        <member name="M:NLog.Logger.Fatal(System.Exception,System.String)">
             <summary>
             Writes the diagnostic message and exception at the <c>Fatal</c> level.
             </summary>
@@ -17904,23 +17629,11 @@
             </summary>
             <param name="logEvent">Log event to be written out.</param>
         </member>
-        <member name="M:NLog.Targets.Target.WriteAsyncThreadSafe(NLog.Common.AsyncLogEventInfo)">
-            <summary>
-            Writes a log event to the log target, in a thread safe manner.
-            </summary>
-            <param name="logEvent">Log event to be written out.</param>
-        </member>
         <member name="M:NLog.Targets.Target.Write(NLog.Common.AsyncLogEventInfo[])">
             <summary>
             Writes an array of logging events to the log target. By default it iterates on all
             events and passes them to "Write" method. Inheriting classes can use this method to
             optimize batch writes.
-            </summary>
-            <param name="logEvents">Logging events to be written out.</param>
-        </member>
-        <member name="M:NLog.Targets.Target.WriteAsyncThreadSafe(NLog.Common.AsyncLogEventInfo[])">
-            <summary>
-            Writes an array of logging events to the log target, in a thread safe manner.
             </summary>
             <param name="logEvents">Logging events to be written out.</param>
         </member>
@@ -20686,7 +20399,7 @@
             to initialize logging.
             </summary>
         </member>
-        <member name="M:NLog.Targets.MailTarget.ProcessSingleMailMessage(System.Collections.Generic.IList{NLog.Common.AsyncLogEventInfo})">
+        <member name="M:NLog.Targets.MailTarget.ProcessSingleMailMessage(System.Collections.Generic.List{NLog.Common.AsyncLogEventInfo})">
             <summary>
             Create mail and send with SMTP
             </summary>
@@ -21851,12 +21564,6 @@
             The <see cref="M:NLog.Targets.Target.PrecalculateVolatileLayouts(NLog.LogEventInfo)"/> is called
             to ensure that the log event can be processed in another thread.
             </remarks>
-        </member>
-        <member name="M:NLog.Targets.Wrappers.AsyncTargetWrapper.WriteAsyncThreadSafe(NLog.Common.AsyncLogEventInfo)">
-            <summary>
-            Write to queue without locking <see cref="P:NLog.Targets.Target.SyncRoot"/> 
-            </summary>
-            <param name="logEvent"></param>
         </member>
         <member name="P:NLog.Targets.Wrappers.AsyncTargetWrapper.BatchSize">
             <summary>
