@@ -1,0 +1,118 @@
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\NLog.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\SxjLibrary.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\SxjLibrary.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\BingLibrary.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\MahApps.Metro.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\NationalInstruments.Common.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\NationalInstruments.VBAI.2008.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\NationalInstruments.Vision.Common.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\NationalInstruments.Vision.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\NLog.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\Castle.Core.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\BingLibrary.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\MahApps.Metro.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\MahApps.Metro.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\NationalInstruments.Common.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\NationalInstruments.Vision.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\NationalInstruments.Vision.Common.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\Castle.Core.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\obj\Debug\SxjLibrary.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\obj\Debug\MessagePrintControl.g.cs
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\obj\Debug\NiImageView.g.cs
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\obj\Debug\SxjLibrary_MarkupCompile.cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\obj\Debug\SxjLibrary_MarkupCompile.lref
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\obj\Debug\MessagePrintControl.baml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\obj\Debug\NiImageView.baml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\obj\Debug\SxjLibrary.g.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\obj\Debug\SxjLibrary.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\obj\Debug\SxjLibrary.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\halcondotnet.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\ViewROI.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\hdevenginedotnet.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\ViewROI.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\halcondotnet.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\bin\Debug\hdevenginedotnet.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\obj\Debug\HcImageView.g.cs
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SXJLibraty\SxjLibrary\obj\Debug\HcImageView.baml
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\bin\Debug\SxjLibrary.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\bin\Debug\SxjLibrary.pdb
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\bin\Debug\MahApps.Metro.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\bin\Debug\NationalInstruments.Common.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\bin\Debug\NationalInstruments.Vision.Common.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\bin\Debug\NationalInstruments.Vision.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\bin\Debug\System.Windows.Interactivity.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\bin\Debug\ViewROI.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\bin\Debug\hdevenginedotnet.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\bin\Debug\NationalInstruments.Common.Native.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\bin\Debug\ViewROI.pdb
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\bin\Debug\halcondotnet.xml
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\bin\Debug\MahApps.Metro.pdb
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\bin\Debug\MahApps.Metro.xml
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\bin\Debug\NationalInstruments.Common.xml
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\bin\Debug\NationalInstruments.Vision.xml
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\bin\Debug\NationalInstruments.Vision.Common.xml
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\bin\Debug\hdevenginedotnet.xml
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\obj\Debug\SxjLibrary.csprojResolveAssemblyReference.cache
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\obj\Debug\MessagePrintControl.g.cs
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\obj\Debug\SxjLibrary_MarkupCompile.cache
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\obj\Debug\SxjLibrary_MarkupCompile.lref
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\obj\Debug\MessagePrintControl.baml
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\obj\Debug\SxjLibrary.g.resources
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\obj\Debug\SxjLibrary.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SXJLibraty\SxjLibrary\obj\Debug\SxjLibrary.pdb
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\NLog.config
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\SxjLibrary.dll.config
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\SxjLibrary.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\SxjLibrary.pdb
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\BingLibrary.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\MahApps.Metro.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\NationalInstruments.Common.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\NationalInstruments.Vision.Common.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\NationalInstruments.Vision.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\System.Windows.Interactivity.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\NLog.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\Castle.Core.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\NationalInstruments.Common.Native.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\BingLibrary.pdb
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\MahApps.Metro.pdb
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\MahApps.Metro.xml
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\NationalInstruments.Common.xml
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\NationalInstruments.Vision.xml
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\NationalInstruments.Vision.Common.xml
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\NLog.xml
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\bin\Debug\Castle.Core.xml
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\obj\Debug\SxjLibrary.csprojResolveAssemblyReference.cache
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\obj\Debug\MessagePrintControl.g.cs
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\obj\Debug\SxjLibrary_MarkupCompile.cache
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\obj\Debug\SxjLibrary_MarkupCompile.lref
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\obj\Debug\MessagePrintControl.baml
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\obj\Debug\SxjLibrary.g.resources
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\obj\Debug\SxjLibrary.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\SxjLibrary\obj\Debug\SxjLibrary.pdb
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\bin\Debug\NLog.config
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\bin\Debug\SxjLibrary.dll.config
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\bin\Debug\SxjLibrary.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\bin\Debug\SxjLibrary.pdb
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\bin\Debug\BingLibrary.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\bin\Debug\MahApps.Metro.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\bin\Debug\System.Windows.Interactivity.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\bin\Debug\NLog.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\bin\Debug\Castle.Core.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\bin\Debug\BingLibrary.pdb
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\bin\Debug\MahApps.Metro.pdb
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\bin\Debug\MahApps.Metro.xml
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\bin\Debug\NLog.xml
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\bin\Debug\Castle.Core.xml
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\obj\Debug\SxjLibrary.csprojResolveAssemblyReference.cache
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\obj\Debug\MessagePrintControl.g.cs
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\obj\Debug\SxjLibrary_MarkupCompile.cache
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\obj\Debug\SxjLibrary_MarkupCompile.lref
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\obj\Debug\MessagePrintControl.baml
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\obj\Debug\SxjLibrary.g.resources
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\obj\Debug\SxjLibrary.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\GeneralSteelTest\SxjLibrary\obj\Debug\SxjLibrary.pdb

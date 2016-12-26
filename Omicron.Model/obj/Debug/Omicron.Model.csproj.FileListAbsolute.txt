@@ -1,0 +1,5 @@
+D:\工作\WorkwithGit\通用钢片测试上位机\Omicron.Model\bin\Debug\Omicron.Model.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\Omicron.Model\bin\Debug\Omicron.Model.pdb
+D:\工作\WorkwithGit\通用钢片测试上位机\Omicron.Model\obj\Debug\Omicron.Model.csprojResolveAssemblyReference.cache
+D:\工作\WorkwithGit\通用钢片测试上位机\Omicron.Model\obj\Debug\Omicron.Model.dll
+D:\工作\WorkwithGit\通用钢片测试上位机\Omicron.Model\obj\Debug\Omicron.Model.pdb
